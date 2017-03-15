@@ -3,7 +3,7 @@
 import operator
 
 OPERATORS = {
-	'+': operator.sub,
+	'+': operator.add,
 	'-': operator.sub,
 	'*': operator.mul,
 	'/': operator.truediv,
